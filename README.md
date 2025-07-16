@@ -1,6 +1,6 @@
 🧠 Instagram Sentiment Analysis on #Prabowo using Python & VADER
 
-Analisis sentimen komentar Instagram berdasarkan hashtag **#Prabowo**. Proyek ini menggabungkan scraping data menggunakan Selenium, terjemahan otomatis dengan GoogleTranslator, dan analisis sentimen berbasis lexicon (VADER Sentiment Analysis).
+Analisis sentimen komentar Instagram berdasarkan hashtag. Proyek ini menggabungkan scraping data menggunakan Selenium, terjemahan otomatis dengan GoogleTranslator, dan analisis sentimen berbasis lexicon (VADER Sentiment Analysis).
 
 ---
 
